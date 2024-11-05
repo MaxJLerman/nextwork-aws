@@ -2,7 +2,7 @@
 
 Amazon QuickSight helps you analyse data and create visualisations easily. This project will teach you to analyse a huge dataset of Netflix shows and movies to create a dashboard that extracts all the insights. Even if you're not familiar with data analysis, Amazon QuickSight is designed to be beginner friendly. This is the final product:
 
-[quicksight](https://learn.nextwork.org/projects/static/aws-analytics-quicksight/intro-1.1.png)
+![final product](https://learn.nextwork.org/projects/static/aws-analytics-quicksight/intro-1.1.png)
 
 In this project, you will:
 
